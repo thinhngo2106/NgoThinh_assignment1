@@ -1,2 +1,3 @@
 # NgoThinh_assignment1
-Bài tập tuần 1
+"This repository is belong to Ngô Doãn Thịnh.
+Under the collaboration of: 
